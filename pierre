@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HateleySite</title>
+</head>
+<body>
+    <table style="width:40%;">
+      <tr>
+        <td>  <img src="my_picture.png" height="200" alt="my image"> </td>
+        <td>  <h1> Hateley S. Pierre  </h1>
+        <p>   <h1>    Ceo Of Zone     </h1> </p>
+
+       </td>
+      </tr>
+</table>
+<h3>Husband</h3>
+<h3>Father</h3>
+  <hr>
+  <p>Dedicated Community Organizer with 3 years of empowering 
+    underserved cultures and interests by communicating with local
+     and state governments. Skilled at connecting organizations with powerful 
+     allies to solicit critical change and effective action. Known for bringing 
+     diverse groups together to achieve universally beneficial goals. Offering excellent 
+     communication and good judgment
+    <p></p>
+  <hr>
+  <h3>Books read </h3>
+  <ul>
+    <li>The subtle of art of not giving a f*ck</li>
+    <li>Better</li>
+    <li>Gifted Hands</li>
+    <li>When air</li>
+    <li>When Breath Becomes Air</li>
+    <li>And many more</li>
+    <li>12 Rules of Life</li>
+  </ul>
+  <hr>
+
+  </body></p>
+  <p></p>
+  <h3>School</h3>
+  <Table>
+  
+    <tr>
+      <td style="width:60%;">Borough of Manhattan Community College</td>
+      <td>● Associate degree of health science</td>
+    </tr>
+
+    <tr>
+          <td>Cuny Queens College</td>
+          <td>●Bachelor of Science in Biology</td>
+    </tr>
+
+  </Table> <hr>
+
+<h3> Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td> ● Python</td>
+    <td> ⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td> ● HTML</td>
+    <td> ⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td> ● CSS</td>
+    <td> ⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td> ● JAVA</td>
+    <td> ⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td> ● JavaScript</td>
+    <td> ⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+  <tr>
+    <td> ● Mongoose</td>
+    <td> ⭐️⭐️⭐️⭐️⭐️</td>
+  </tr>
+</table>
+ 
+
+  <h3> Professional Experience</h3>
+  <table>
+    <tr>
+      <td>Queens NY</td>
+      <td> ● Community Engagement Specialist </td>
+    </tr>
+    <tr>
+      <td style="width:25%">2020 - 2022</td>
+      <td>● Developed and implemented community engagement requirements and programs.</td>
+    </tr>
+    <tr>
+
+      <td style="width:29%;"></td>
+      <td>●Fostered collaborative efforts to schedule,
+         host and facilitate events and identify further 
+         opportunities to reach members of community.
+      </td>
+    <tr>
+      <td></td>
+      <td>● Maintained strong bonds to underserved communities,
+         consistently working to benefit underserved cultures and groups. 
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>● Working with NYC school Administratives to implement care to NYC public and private schools.
+      </td>
+    </tr>
+  </table> <hr>
+
+<h4>If you would like to contact me please, Enter your information below</h4>
+
+<form class=" " action="mailto:pierrehateley@gmail.com" method="post" enctype="text/plain">
+  <label> First Name</label>
+  <input type="text" name=YourName= value=""><br><br>
+  <label> Last Name</label>
+  <input type="text" name=YourName= value=""><br><br>
+  <label> yourEmail: </label>
+  <input type="email" name="YourEmail" value=""><br><br>
+  <label Your Message </label>
+  <textarea name="YourMessage" rows="15" cols="40"> </textarea><br>
+  <input type="submit" value="Submit"> <br>
+  
+</form>  
+
+</body>
+
+</html>
+
+
+
+
+
+
+
